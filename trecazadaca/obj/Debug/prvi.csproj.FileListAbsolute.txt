@@ -1,0 +1,11 @@
+c:\users\mario\documents\visual studio 2017\Projects\trecazadaca\trecazadaca\obj\Debug\prvi.csprojResolveAssemblyReference.cache
+c:\users\mario\documents\visual studio 2017\Projects\trecazadaca\trecazadaca\bin\Debug\trecazadaca.dll.config
+c:\users\mario\documents\visual studio 2017\Projects\trecazadaca\trecazadaca\bin\Debug\trecazadaca.dll
+c:\users\mario\documents\visual studio 2017\Projects\trecazadaca\trecazadaca\bin\Debug\trecazadaca.pdb
+c:\users\mario\documents\visual studio 2017\Projects\trecazadaca\trecazadaca\bin\Debug\EntityFramework.dll
+c:\users\mario\documents\visual studio 2017\Projects\trecazadaca\trecazadaca\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\mario\documents\visual studio 2017\Projects\trecazadaca\trecazadaca\bin\Debug\EntityFramework.xml
+c:\users\mario\documents\visual studio 2017\Projects\trecazadaca\trecazadaca\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\mario\documents\visual studio 2017\Projects\trecazadaca\trecazadaca\obj\Debug\trecazadaca.dll
+c:\users\mario\documents\visual studio 2017\Projects\trecazadaca\trecazadaca\obj\Debug\trecazadaca.pdb
+C:\Users\Mario\Documents\Visual Studio 2017\Projects\trecazadaca\trecazadaca\obj\Debug\prvi.csproj.CoreCompileInputs.cache

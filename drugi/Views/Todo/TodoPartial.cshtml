@@ -1,0 +1,10 @@
+﻿@using drugi.Models
+@model TodoViewModel
+
+
+<div>
+    <h4 style="display:inline-block; margin-right: 5px; font-size: x-large">@Model.Text</h4>
+    <p style="display:inline-block; color:red">@Model.TimeLeft()</p>
+    <p>@Model.GetDate()</p>
+</div>
+
